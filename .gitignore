@@ -81,6 +81,7 @@ Platforms/*
 Plugins/*
 Shaders/*
 Config/*
+Content/*
 UnrealPortfolio_WwiseProject/*
 UnrealPortfolio.Target.cs
 UnrealPortfolioEditor.Target.cs
