@@ -73,3 +73,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Exras to ignore generated or other
+.idea/
+/UnrealPortfolio.uproject
+Platforms/*
+Plugins/*
+Shaders/*
+Config/*
+UnrealPortfolio.Target.cs
+UnrealPortfolioEditor.Target.cs
+Source/UnrealPortfolio/UnrealPortfolio.Build.cs
